@@ -1,0 +1,3 @@
+# SoapDemo
+
+soaptest = run server
