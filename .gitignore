@@ -1,6 +1,8 @@
-/soapclint/.vs/soapclint
-/soapclint/bin
-/soapclint/obj
-/soaptest/.vscode
-/soaptest/bin
-/soaptest/obj
+/soap.client/.vscode
+/soap.client/.vs
+/soap.client/bin
+/soap.client/obj
+/soap.server/obj
+/soap.server/bin
+/soap.server/.vs
+/soap.server/.vscode
