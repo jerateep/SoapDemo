@@ -4,7 +4,7 @@ namespace soaptest.Webservice
     {
         public string SendBatchInfo(string System, string Programname, string Table, string Description, int RowCount, string start, string stop, int addHour)
         {
-            return "Send OK..";
+            return "Send OK";
         }
     }
 }

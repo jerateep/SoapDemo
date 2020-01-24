@@ -15,7 +15,6 @@ namespace soapclint
                 string Result = "";
                 try
                 {
-
                     int RowCount = 49;
                     string Sdate = DateTime.Now.ToString();
                     string Fdate = DateTime.Now.ToString();

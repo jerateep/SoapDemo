@@ -1,3 +1,4 @@
-# SoapDemo
+# Soap Demo
 
-soaptest = run server
+run server : https://localhost:5001/Checker.asmx
+
