@@ -18,8 +18,8 @@ namespace soapclint
                     int RowCount = 49;
                     string Sdate = DateTime.Now.ToString();
                     string Fdate = DateTime.Now.ToString();
-                    string Table = "ZClass";
-                    var Response = service.SendBatchInfoAsync("OES", "Program", Table, "description", RowCount, Sdate, Fdate, 0).Result;
+                    string Table = "TableName";
+                    var Response = service.SendBatchInfoAsync("System_name", "Program", Table, "description", RowCount, Sdate, Fdate, 0).Result;
                     Result = "OK";
                 }
                 catch (Exception ex)
